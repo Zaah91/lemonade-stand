@@ -1,8 +1,10 @@
-# React + Vite
+Small application for a lemonade stand.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Can +5 when selling lemonade, and -2 when buying lemons.
+Got usage of localStorage, so the value is stored in the browser.
 
-Currently, two official plugins are available:
+Run command:
+npm run dev
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Running on port 3000
+Port can be changed in vite.config.js
