@@ -1,4 +1,4 @@
-Small application for a lemonade stand.
+Small application for a lemonade stand made with React and Vite.
 
 Can +5 when selling lemonade, and -2 when buying lemons.
 Got usage of localStorage, so the value is stored in the browser.
