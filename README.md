@@ -1,7 +1,7 @@
 Small application for a lemonade stand.
 
 Can +5 when selling lemonade, and -2 when buying lemons.
-Got usage of localStorage, so the value is stored in the browser.
+Uses localStorage, so the value is stored in the browser.
 
 Run command:
 npm run dev
